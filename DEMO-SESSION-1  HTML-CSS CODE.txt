@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Demo Session</title>
+</head>
+<style>
+    body{
+        background-color: cadetblue;
+    }
+    .demo {
+        font-weight: bolder;
+    }
+
+    .demo :hover {
+        color: blue;
+    }
+.image{
+    display: flex;
+    padding-left: 50px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.k1{
+    padding-left: 100px;
+    color: chartreuse;
+    font: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.k2{
+    padding-left: 100px;
+    color: chartreuse;
+    font: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.k3{
+    padding-left: 100px;
+    color: chartreuse;
+    font: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#float{
+    justify-content: center;
+    align-items: center;
+    padding-left: 75px;
+}
+</style>
+
+<body>
+    <center>
+        <h2>Demo Session</h2>
+        <div class="demo1">
+            <a href="https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers">Best Seller</a>
+            <a href="https://www.amazon.in/mobile-phones/b/?ie=UTF8&node=1389401031&ref_=nav_cs_mobiles">Mobiles</a>
+            <a href="https://www.amazon.in/deals?ref_=nav_cs_gb">Todays deal</a>
+            <a href="https://www.amazon.in/gp/help/customer/display.html?nodeId=200507590&ref_=nav_cs_help">Customer Service</a>
+        </div>
+    </center>
+    <hr>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur repellat laudantium odit excepturi sint omnis
+        numquam iusto. Autem dolores incidunt repudiandae. Eligendi reiciendis nam totam laboriosam maxime sequi minus
+        aperiam optio saepe accusantium, repudiandae magni quos officiis commodi rerum dicta accusamus eum autem hic?
+        Perferendis, exercitationem nulla? Veritatis, ullam ducimus?
+    </p>
+    <center><a
+            href="https://www.amazon.in/Fujifilm-X-T3-Mirrorless-Body-Black/dp/B07H3Y9CJY/ref=asc_df_B07H3Y9CJY/?tag=googleshopdes-21&linkCode=df0&hvadid=397081835681&hvpos=&hvnetw=g&hvrand=2955116631593931453&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062111&hvtargid=pla-569004750666&ext_vrnc=hi&th=1"><img
+                src="image/img1.png" alt="camera man" height="450px" width="450px"></a></center>
+    <br>
+    <div class="demo">
+        <p>
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id, cupiditate? Totam officia amet doloremque
+            libero
+            earum ullam minima fugit dolores nihil ratione ea, doloribus quasi! Ipsum at adipisci autem animi vel,
+            harum,
+            consequatur sapiente quia corrupti in maxime et temporibus eveniet doloremque incidunt iure, soluta quos!
+            Repellat velit nostrum debitis?
+        </p>
+    </div>
+    <div class="image">
+        <a class="k1">
+           <center><h2><span style="background-color: crimson;">Camera</span></h2></center>
+            <img src="image/img2.jfif" alt="img1" height="250px" width="250px"></a>
+        <a class="k2">
+            <h2 align="center"> <span style="background-color: crimson;">Camera</span></h2>
+            <img src="image/img3.jpg" alt="img2" height="250px" width="250px"></a>
+        <a class="k3">
+            <h2 id="float"><span style="background-color: crimson;">Camera </span></h2>
+            <img src="image/img4.jpg" alt="img3" height="250px" width="250px"></a>
+    </div>
+    <br>
+    <br>
+    <tt>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aperiam aliquam perspiciatis commodi incidunt, atque
+        ipsam recusandae autem minus laborum dolore sint voluptatum blanditiis molestiae. Autem distinctio nostrum
+        veniam delectus vero recusandae soluta natus facilis consequuntur neque in, laboriosam fugiat repudiandae sed ex
+        magnam. Dolorum facere hic sit laboriosam aperiam sequi.
+    </tt>
+    <p align="right">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, in.
+    </p>
+    <p align="center">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, in.
+    </p>
+    <p align="left">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, in.
+    </p>
+</body>
+
+
+</html>
